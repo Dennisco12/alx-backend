@@ -18,3 +18,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.12.0\n"
 
+msgid "home_title"
+msgstr "Vous êtes connecté en tant que %(username)s."
+
+msgid "not_logged_in"
+msgstr "Vous n'êtes pas connecté."
